@@ -19,17 +19,17 @@ Intelligence.
 - **Breast Cancer Recurrence Prediction**  
   Explored supervised learning techniques to predict cancer recurrence using attention-based MIL and patch-level CNN scoring from histopathology Whole Slide Images. *(Python)*
 
-Current Projects: 
--  **Passion Projects/Trackers**  
-  Experimenting with different art styles and such to create video games from scratch. Also keeping skills sharp with projects like trackers and such. *(C#, Python, Java, C/C++)*
-
-- **Image Segmentation Project** *(In Progress Research)*  
-
-Recently done passion projects 
+Recently completed passion projects:
 - **Simulation-Showcase**
 Built an interactive, realistic 3D environment using **Three.js**, with furniture models, collision detection, texture loading, and camera control *(Three.js, HTML, CSS)*
 - **Snack-Bytes**
   Created a retro game collection with original art, using Firebase for user authentication and backend support. *(Javascript, HTML, CSS, Procreate)*
+
+Current projects: 
+-  **Passion Projects/Trackers**  
+  Experimenting with different art styles and such to create video games from scratch. Also keeping skills sharp with projects like trackers and such. *(C#, Python, Java, C/C++)*
+
+- **Image Segmentation Project** *(In Progress Research)*
 
 ### Let's Connect
 
