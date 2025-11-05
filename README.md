@@ -9,18 +9,18 @@ Whether it's building intelligent models, analyzing visual data, or crafting imm
 **Frameworks/Libraries:** TensorFlow, PyTorch, OpenCV, Three.js, React  
 **Tools:** Git, Docker, Unity, Blender, VS Code, Eclipse
 
-### Research/Projects
+### Research Projects
+Current project: 
+- **Breast Cancer Recurrence Prediction**  
+  Currently developing a ViT-based cancer classification pipeline using CAMELYON17 and benchmarking performance across HPC systems. *(Python)*
 
-Projects from the past: 
+Past/Completed Project: 
 -  **Fashion Image Classifier**  
   Conducted a comparative study of CNN models (VGG, AlexNet, LeNet) in fashion image classification using hyperparameter tuning. *(Python)*
     - Paper accepted to the 10th International Conference on Big Data Analytics, Data Mining and Computational
 Intelligence.
 
-- **Breast Cancer Recurrence Prediction**  
-  Explored supervised learning techniques to predict cancer recurrence using attention-based MIL and patch-level CNN scoring from histopathology Whole Slide Images. *(Python)*
-
-Recently completed passion projects:
+### Recently Completed Personal Projects:
 - **Simulation-Showcase**
 Built an interactive, realistic 3D environment using **Three.js**, with furniture models, collision detection, texture loading, and camera control *(Three.js, HTML, CSS)*
 - **Snack-Bytes**
