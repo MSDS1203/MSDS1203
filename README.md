@@ -30,8 +30,6 @@ Current projects:
 -  **Passion Projects/Trackers**  
   Experimenting with different art styles and such to create video games from scratch. Also keeping skills sharp with projects like trackers and such. *(C#, Python, Java, C/C++)*
 
-- **Image Segmentation Project** *(In Progress Research)*
-
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]( https://www.linkedin.com/in/marian-sousan)  
