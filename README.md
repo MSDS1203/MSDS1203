@@ -10,6 +10,7 @@ Whether it's building intelligent models, analyzing visual data, or crafting imm
 **Tools:** Git, Docker, Unity, Blender, VS Code, Eclipse
 
 ### Research/Projects
+
 Projects from the past: 
 -  **Fashion Image Classifier**  
   Conducted a comparative study of CNN models (VGG, AlexNet, LeNet) in fashion image classification using hyperparameter tuning. *(Python)*
